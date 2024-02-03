@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Maruthi Manoj Kolli
-description: "Hi I'm Manoj, As a seasoned data engineer and software engineer with 5+ years of experience in Industry/Technologies, I blend deep technical expertise with a passion for solving complex data challenges. My portfolio focuses on interesting projects I've worked on and undertaken, with a strong emphasis on business impact!"
+description: "Hi I'm Manoj, As a Full-time data engineer and software engineer with 5+ years of experience in Industry/Technologies, I blend deep technical expertise with a passion for solving complex data challenges. My portfolio focuses on interesting projects I've worked on and undertaken, with a strong emphasis on business impact!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
