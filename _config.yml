@@ -9,8 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Maruthi Manoj Kolli
-description: "Master's graduate in Data Science with over five years of experience as a Data Engineer, boasting end-to-end expertise in designing, implementing, and automating data pipelines. My experience spans across health, retail, and financial domains, where I have honed strong skills in ETL/ELT, Python, PySpark, SQL, and NoSQL databases. Additionally, I possess expertise in data orchestration tools across Azure, GCP, and AWS, integrating them with CI/CD pipelines, and working with data warehousing tools."
-"Hi I'm Manoj, As a Full-time data engineer and software engineer with 5+ years of experience in Industry/Technologies, I blend deep technical expertise with a passion for solving complex data challenges. My portfolio focuses on interesting projects I've worked on and undertaken, with a strong emphasis on business impact!"
+description: "Master's graduate in Data Science with 5+ years of experience as a Data Engineer, boasting end-to-end expertise in designing, implementing, and automating data pipelines. My experience spans across health, retail, and financial domains, where I have honed strong skills in ETL/ELT, Python, PySpark, SQL, and NoSQL databases. Additionally, I possess expertise in data orchestration tools across Azure, GCP, and AWS, integrating them with CI/CD pipelines, and working with data warehousing tools."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
