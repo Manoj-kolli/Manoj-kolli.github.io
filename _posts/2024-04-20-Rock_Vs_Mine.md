@@ -1,3 +1,9 @@
+---
+layout: post
+title: Predictiing Rock or Mine Using Python
+image: "/posts/rock.jpeg"
+tags: [Python, Logistic]
+---
 In this post I'm going to run through a function in Python that can quickly find a Rock or Mine for below given input values.  For example, if I passed the function a values of sonar data below, it would find whether it is a Rock or Mine!
 
 Let's get into it!
