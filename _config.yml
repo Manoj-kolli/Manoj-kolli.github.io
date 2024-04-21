@@ -23,7 +23,7 @@ avatar_image: "/img/img.jpg"
 #-------------------------------
 # Contact links
 linkedln: https://www.linkedin.com/in/manoj-kolli/ # Add your linkedln handle
-##github: "https://github.com/Manoj-kolli"  # Add your github handle
+#github: "https://github.com/Manoj-kolli"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
