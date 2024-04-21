@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Predictiing Rock or Mine Using Python
+title: Predicting Rock or Mine Using Python
 image: "/posts/rock.jpeg"
 tags: [Python, Logistic]
 ---
