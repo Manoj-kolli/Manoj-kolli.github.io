@@ -1,6 +1,12 @@
+---
+layout: post
+title: Predicting the price of the Car Using Python
+image: "/posts/car.jpeg"
+tags: [Python, Linear, Lasso]
+---
 In this post I'm going to run through a function in Python that can quickly predict the Price of the car.
 
-I have performed Linear Regression and Lasso Regression modles on the test and train data. According to plots, Lasso model is the best fit for the given dataset which can predict the car price accurately.
+I have performed Linear Regression Model and Lasso Regression Model on the test data and train data. Accordingly, Lasso model is the best fit for the given dataset which can predict the car price accurately.
 
 Let's get into it!
 
